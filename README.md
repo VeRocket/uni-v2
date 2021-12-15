@@ -1,4 +1,4 @@
-# ZumoSwap (Uniswap V2 Fork)
+# ZumoSwap Smart Contracts
 
 ## Credits
 This is a fork of several repositories from VeChain Community public source code.
@@ -19,19 +19,18 @@ make compile # Compile all contracts.
 make test # Run all the tests.
 ```
 
-# Branches in this repo:
+This is compatible with VeChain after update of thor `1.5.1`
 
-## `main` branch
+## Testnet
 
-What is changed:
-- Change variable names of LP token `symbol` and `name`. (uniswap-v2-core/contracts/UniswapV2ERC20.sol)
-- `CREATE2` hash. (uniswap-v2-periphery/contracts/libraries/UniswapV2Library.sol)
+| Contract  |                  Address                   |
+| --------- | ------------------------------------------ |
+| vVET      | 0x86fb5343bbecffc86185c023a2a6ccc76fc0afd8 |
+| vtho      | 0x0000000000000000000000000000456e65726779 |
+| factory   | 0xadd8fcf3f0e43aa828f2a55e6d1a9fe5c0d7a679 |
+| router02  | 0x91e42759290239a62ac757cf85bb5b74ace57927 |
+| vvet/vtho | 0x1e5e9a6540b15a3efa8d4e8fadb82cc8e0e167ca |
 
-What remains:
-- `chainId()` call remains the same.
-- Compiler option `istanbul` remains the same.
-
-This is compatible with VeChain after update of thor code `1.5.1`
 
 # Disclaimer (I)
 
