@@ -1,7 +1,8 @@
-# Uniswap V2 Fork
+# ZumoSwap (Uniswap V2 Fork)
 
 ## Credits
-This is a fork of several repositories from https://github.com/Uniswap/
+This is a fork of several repositories from VeChain Community public source code.
+https://github.com/VeChainDEXCode/uni-v2
 
 All tests passed.
 
@@ -32,13 +33,12 @@ What remains:
 
 This is compatible with VeChain after update of thor code `1.5.1`
 
-## Development Branches
-## Deprecated Branches
-`mainnet` branch. See `CHANGELOG.md`
+# Disclaimer (I)
 
-`testnet` branch. See `CHANGELOG.md`
+- This repo keeps the upstream license of GPL-3.0.
+- Neither the name of ZumoSwap nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
-# Disclaimer
+# Disclaimer (II)
 Redistributions of source code must retain this list of conditions and the following disclaimer.
 
 Neither the name of VeChain (VeChain Foundation) nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
