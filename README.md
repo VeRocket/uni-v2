@@ -31,6 +31,15 @@ This is compatible with VeChain after update of thor `1.5.1`
 | router02  | 0x91e42759290239a62ac757cf85bb5b74ace57927 |
 | vvet/vtho | 0x1e5e9a6540b15a3efa8d4e8fadb82cc8e0e167ca |
 
+## Mainnet
+
+| Contract  |                  Address                   |
+| --------- | ------------------------------------------ |
+| vVET      | 0x45429a2255e7248e57fce99e7239aed3f84b7a53 |
+| vtho      | 0x0000000000000000000000000000456e65726779 |
+| factory   | 0xbdc2edaea65b51053ffce8bc0721753c7895e12f |
+| router02  | 0x576da7124c7bb65a692d95848276367e5a844d95 |
+| vvet/vtho | 0x29a996b0ebb7a77023d091c9f2ca34646bea6ede |
 
 # Disclaimer (I)
 
