@@ -1,16 +1,16 @@
-# ZumoSwap Smart Contracts
+# VeRocket Smart Contracts
 
 ## Credits
 This is a fork of several repositories from VeChain Community public source code.
-https://github.com/VeChainDEXCode/uni-v2
+https://github.com/vechainlabs/uni-v2
 
 All tests passed.
 
 # For Developers
 ```bash
-/uniswap-lib            # util libraries
-/uniswap-v2-core        # core contracts for assets
-/uniswap-v2-periphery   # surrounding contract for user interface
+/uniswap-lib            # math, address, etc
+/uniswap-v2-core        # core contracts: factory / pair (pool)
+/uniswap-v2-periphery   # user interface: Router02
 ```
 
 ```bash
@@ -44,7 +44,7 @@ This is compatible with VeChain after update of thor `1.5.1`
 # Disclaimer (I)
 
 - This repo keeps the upstream license of GPL-3.0.
-- Neither the name of ZumoSwap nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+- Neither the name of VeRocket nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 # Disclaimer (II)
 Redistributions of source code must retain this list of conditions and the following disclaimer.
